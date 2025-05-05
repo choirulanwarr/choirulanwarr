@@ -20,3 +20,7 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 - 🔭 I’m currently working on Technopartner Indonesia
 - 👯 I’m looking to collaborate on new bussiness idea
 - 📫 How to reach me: [Send hello to me](mailto:find.anwar@gmail.com?subject=[GitHub]%20Hello%20Anwar)
+
+## Github Stats
+
+[![Choirul Anwar github stats](https://github-readme-stats.vercel.app/api?username=choirulanwarr)](https://github.com/choirulanwarr)
