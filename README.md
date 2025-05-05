@@ -23,6 +23,6 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 
 ## Github Stats
 
-[![Choirul Anwar github stats](https://github-readme-stats.vercel.app/api?username=choirulanwarr&show_icons=true&theme=onedark)](https://github.com/choirulanwarr)
+[![Choirul Anwar github stats](https://github-readme-stats.vercel.app/api?username=choirulanwarr&show_icons=true&theme=dark)](https://github.com/choirulanwarr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choirulanwarr&layout=compact)](https://github.com/choirulanwarr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choirulanwarr&&theme=dark&layout=compact)](https://github.com/choirulanwarr)
