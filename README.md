@@ -28,9 +28,9 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 
 **Cloud Services:**
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazons3&logoColor=white&color=6aa6f8)
+![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
 ![GCS](https://img.shields.io/badge/Google-Cloud-Storage?style=flat&logo=googlecloudstorage&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+
 
 **Programming Languages:**
 
@@ -45,7 +45,7 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-## Github Stats
+## 🏆 GitHub Trophies
 
 [![Choirul Anwar github stats](https://github-readme-stats.vercel.app/api?username=choirulanwarr&show_icons=true&theme=dark)](https://github.com/choirulanwarr)
 
