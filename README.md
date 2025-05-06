@@ -29,7 +29,7 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 **Cloud Services:**
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![GCS](https://img.shields.io/badge/Google-Cloud-Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=6aa6f8)
+![Google Cloud Storage](https://img.shields.io/badge/Google-Cloud-Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=6aa6f8)
 ![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
@@ -39,6 +39,11 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+
+**Tools and Services:**
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
 
 ## Github Stats
 
