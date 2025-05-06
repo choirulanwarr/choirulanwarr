@@ -24,13 +24,21 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 - 👯 I’m looking to collaborate on new bussiness idea
 - 📫 How to reach me: [Send hello to me](mailto:choirulsubwofer12@gmail.com?subject=[GitHub]%20Hello%20Anwar)
 
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![GCS](https://img.shields.io/badge/Google-Cloud-Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+
 **Programming Languages:**
 
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 
 ## Github Stats
 
