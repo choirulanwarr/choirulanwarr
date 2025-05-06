@@ -29,7 +29,7 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 **Cloud Services:**
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Google Cloud Storage](https://img.shields.io/badge/Google-Cloud-Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=6aa6f8)
+![GCS](https://img.shields.io/badge/Google-Cloud-Storage?style=flat&logo=googlecloudstorage&logoColor=white&color=6aa6f8)
 ![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
