@@ -47,6 +47,10 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 
 ## 🏆 GitHub Trophies
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=choirulanwarr&show_icons=true&theme=dark&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
 [![Choirul Anwar github stats](https://github-readme-stats.vercel.app/api?username=choirulanwarr&show_icons=true&theme=dark)](https://github.com/choirulanwarr)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choirulanwarr&&theme=dark&layout=compact)](https://github.com/choirulanwarr)
