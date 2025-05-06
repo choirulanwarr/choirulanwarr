@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=choirulanwarr.choirulanwarr)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 <!--
 **choirulanwarr/choirulanwarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
