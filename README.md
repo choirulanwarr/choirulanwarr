@@ -45,7 +45,7 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-## 🏆 GitHub Trophies
+## GitHub Stats
 
 [![Choirul Anwar github stats](https://github-readme-stats.vercel.app/api?username=choirulanwarr&show_icons=true&theme=dark)](https://github.com/choirulanwarr)
 
