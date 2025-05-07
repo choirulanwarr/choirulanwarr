@@ -24,6 +24,10 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 - 👯 I’m looking to collaborate on new bussiness idea
 - 📫 How to reach me: [Send hello to me](mailto:choirulsubwofer12@gmail.com?subject=[GitHub]%20Hello%20Anwar)
 
+## 📝 Blogs
+
+- Personal website and blog: https://choirulanwarr.github.io/
+
 ## 🔧 Technologies & Tools
 
 **Cloud Services:**
