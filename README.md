@@ -44,6 +44,7 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
