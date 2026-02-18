@@ -56,5 +56,5 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 
 ## GitHub Stats
 
-[![Choirul Anwar Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/choirulanwarr?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![Choirul Anwar Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/choirulanwarr?cardType=level-alternate&theme=github-dark&fontFamily=Noto%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
