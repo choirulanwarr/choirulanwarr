@@ -56,5 +56,5 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 
 ### :fire: GitHub Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=choirulanwarr&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=choirulanwarr&theme=dark&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
