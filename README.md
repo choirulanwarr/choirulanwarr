@@ -26,7 +26,7 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 
 ## 📝 Blogs
 
-- Portofolio website: [Resume](https://choirulanwar.vercel.app/)
+- Portofolio website: [Take a look!!](https://choirulanwar.vercel.app/)
 
 ## 🔧 Technologies & Tools
 
