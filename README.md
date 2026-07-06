@@ -54,6 +54,6 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 
-### :fire: GitHub Stats :
+### :fire: GitHub Lang:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=choirulanwarr&theme=dark&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=choirulanwarr&layout=donut&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=choirulanwarr&layout=donut&langs_count=10&theme=dark)
