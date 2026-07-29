@@ -56,9 +56,7 @@ I am **Choirul Anwar / Backend Developer**. I build exceptional and accessible t
 
 ### :fire: GitHub Stats:
 
-| Top Languages | GitHub Stats |
-| :---: | :---: |
-| [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=choirulanwarr&layout=donut&langs_count=4&theme=tokyonight)](https://github.stats-extended.vercel.app/api/top-langs?username=choirulanwarr&layout=donut&langs_count=4&theme=tokyonight) | [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=choirulanwarr&custom_title=GitHub%20Stats&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=choirulanwarr&custom_title=GitHub%20Stats&include_all_commits=true&theme=tokyonight) |
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=choirulanwarr&layout=donut&langs_count=4&theme=tokyonight)](https://github.stats-extended.vercel.app/api/top-langs?username=choirulanwarr&layout=donut&langs_count=4&theme=tokyonight)
 
 
 
